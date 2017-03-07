@@ -1,5 +1,7 @@
 body {
   background-image: url("https://www.solodev.com/assets/hero/hero.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .mfp-hide {
     display: none!important;
